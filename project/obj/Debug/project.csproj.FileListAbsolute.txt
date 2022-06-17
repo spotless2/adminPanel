@@ -1,0 +1,14 @@
+D:\sa\facultate\c#\project\project\bin\Debug\project.exe.config
+D:\sa\facultate\c#\project\project\bin\Debug\project.exe
+D:\sa\facultate\c#\project\project\bin\Debug\project.pdb
+D:\sa\facultate\c#\project\project\obj\Debug\project.csproj.AssemblyReference.cache
+D:\sa\facultate\c#\project\project\obj\Debug\project.csproj.SuggestedBindingRedirects.cache
+D:\sa\facultate\c#\project\project\obj\Debug\project.formLogin.resources
+D:\sa\facultate\c#\project\project\obj\Debug\project.formMain.resources
+D:\sa\facultate\c#\project\project\obj\Debug\project.Properties.Resources.resources
+D:\sa\facultate\c#\project\project\obj\Debug\project.csproj.GenerateResource.cache
+D:\sa\facultate\c#\project\project\obj\Debug\project.csproj.CoreCompileInputs.cache
+D:\sa\facultate\c#\project\project\obj\Debug\project.exe
+D:\sa\facultate\c#\project\project\obj\Debug\project.pdb
+D:\sa\facultate\c#\project\project\obj\Debug\project.formAdd.resources
+D:\sa\facultate\c#\project\project\obj\Debug\project.formModify.resources
